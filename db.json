@@ -1,0 +1,30 @@
+{
+    "attendance": [
+        {
+            "id": "fw16_518",
+            "present_at": "11:40"
+        },
+        {
+            "id": "fw16_517",
+            "present_at": "11:41"
+        },
+        {
+            "id": "fw16_519",
+            "present_at": "11:52"
+        },
+        {
+            "id": "fw16_520",
+            "present_at": "11:43"
+        },
+        {
+            "id": "admin",
+            "present_at": "01:00",
+            "modified_time": "11:00"
+        },
+        {
+            "id": "ashwini",
+            "present_at": "12:00"
+        }
+    ],
+    "marks": []
+}
